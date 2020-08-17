@@ -10,6 +10,7 @@
 	
 	"Manifest": [  
 	
+	{ "Type": "Texture2D",  "Path": "textures", "AddToAddendum": "ConversationTexture" },
 	{ "Type": "HardpointDataDef", "Path": "hardpoints" },
 	{ "Type": "AssetBundle", "Path": "assetbundles" }
 
