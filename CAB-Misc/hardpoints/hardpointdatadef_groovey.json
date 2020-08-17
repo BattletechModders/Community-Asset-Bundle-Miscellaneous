@@ -1,0 +1,89 @@
+{
+    "ID" : "hardpointdatadef_groovey",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			"chrPrfWeap_groovey_lefttorso_ppc_eh1",
+			"chrPrfWeap_groovey_lefttorso_mg_bh1",
+			"chrPrfWeap_groovey_lefttorso_gauss_bh1",
+			"chrPrfWeap_groovey_lefttorso_ac20_bh1",
+			"chrPrfWeap_groovey_lefttorso_laser_eh1",
+			"chrPrfWeap_groovey_lefttorso_flamer_eh1"
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			"chrPrfWeap_groovey_lefttorso_ppc_eh1",
+			"chrPrfWeap_groovey_lefttorso_mg_bh1",
+			"chrPrfWeap_groovey_lefttorso_gauss_bh1",
+			"chrPrfWeap_groovey_lefttorso_ac20_bh1",
+			"chrPrfWeap_groovey_lefttorso_laser_eh1",
+			"chrPrfWeap_groovey_lefttorso_flamer_eh1"
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			"chrPrfWeap_groovey_rightarm_ppc_eh1",
+			"chrPrfWeap_groovey_rightarm_mg_bh1",
+			"chrPrfWeap_groovey_rightarm_gauss_bh1",
+			"chrPrfWeap_groovey_rightarm_ac20_bh1",
+			"chrPrfWeap_groovey_rightarm_laser_eh1",
+			"chrPrfWeap_groovey_rightarm_flamer_eh1",
+			"chrPrfWeap_groovey_rightarm_srm6_mh1",
+			"chrPrfWeap_groovey_rightarm_lrm10_mh1"		
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [	
+			"chrPrfWeap_groovey_righttorso_ppc_eh1",
+			"chrPrfWeap_groovey_righttorso_mg_bh1",
+			"chrPrfWeap_groovey_righttorso_gauss_bh1",
+			"chrPrfWeap_groovey_righttorso_ac20_bh1",
+			"chrPrfWeap_groovey_righttorso_laser_eh1",
+			"chrPrfWeap_groovey_righttorso_flamer_eh1"
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },	
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			"chrPrfWeap_groovey_centertorso_srm6_mh1",
+			"chrPrfWeap_groovey_centertorso_lrm10_mh1"
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

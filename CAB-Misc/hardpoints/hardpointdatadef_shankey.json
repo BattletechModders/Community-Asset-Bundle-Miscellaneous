@@ -1,0 +1,81 @@
+{
+    "ID" : "hardpointdatadef_shankey",
+    "HardpointData" : [
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_shankey_lefttorso_laser_eh1",
+			"chrPrfWeap_shankey_lefttorso_flamer_eh1",
+			"chrPrfWeap_shankey_lefttorso_mg_bh1"		
+            ]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_shankey_rightarm_laser_eh1",
+			"chrPrfWeap_shankey_rightarm_flamer_eh1",
+			"chrPrfWeap_shankey_rightarm_mg_bh1",
+			"chrPrfWeap_shankey_rightarm_gauss_bh1",
+			"chrPrfWeap_shankey_rightarm_ac2_bh1",
+			"chrPrfWeap_shankey_rightarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_shankey_rightarm_laser_eh2",
+			"chrPrfWeap_shankey_rightarm_flamer_eh2",
+			"chrPrfWeap_shankey_rightarm_mg_bh2"
+			],
+			[
+			"chrPrfWeap_shankey_rightarm_laser_eh3",
+			"chrPrfWeap_shankey_rightarm_flamer_eh3",
+			"chrPrfWeap_shankey_rightarm_mg_bh3"			
+            ]				
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_shankey_righttorso_laser_eh1",
+			"chrPrfWeap_shankey_righttorso_flamer_eh1",
+			"chrPrfWeap_shankey_righttorso_mg_bh1"		
+            ]				
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightleg",
+            "weapons" : [
+			[
+			"chrPrfWeap_shankey_rightleg_srm4_mh1"		
+            ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

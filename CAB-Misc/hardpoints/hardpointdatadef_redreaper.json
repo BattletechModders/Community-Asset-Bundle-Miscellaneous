@@ -1,0 +1,116 @@
+{
+    "ID" : "hardpointdatadef_redreaper",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_redreaper_head_flamer_eh1",
+			"chrPrfWeap_redreaper_head_laser_eh1"
+            ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_redreaper_leftarm_laser_eh1",
+					"chrPrfWeap_redreaper_leftarm_flamer_eh1",
+					"chrPrfWeap_redreaper_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_redreaper_leftarm_laser_eh2",
+					"chrPrfWeap_redreaper_leftarm_flamer_eh2",
+					"chrPrfWeap_redreaper_leftarm_ppc_eh2"
+                ]				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_redreaper_lefttorso_flamer_eh1",
+			"chrPrfWeap_redreaper_lefttorso_laser_eh1",
+			"chrPrfWeap_redreaper_lefttorso_ppc_eh1"
+            ],
+			[
+			"chrPrfWeap_redreaper_lefttorso_flamer_eh2",
+			"chrPrfWeap_redreaper_lefttorso_laser_eh2",
+			"chrPrfWeap_redreaper_lefttorso_ppc_eh2"
+            ]			
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_redreaper_rightarm_ac10_bh1",
+			"chrPrfWeap_redreaper_rightarm_ac2_bh1",
+			"chrPrfWeap_redreaper_rightarm_ac5_bh1",
+			"chrPrfWeap_redreaper_rightarm_flamer_eh1",
+			"chrPrfWeap_redreaper_rightarm_gauss_bh1",
+			"chrPrfWeap_redreaper_rightarm_laser_eh1",
+			"chrPrfWeap_redreaper_rightarm_lbx10_bh1",
+			"chrPrfWeap_redreaper_rightarm_mg_bh1",
+			"chrPrfWeap_redreaper_rightarm_ppc_eh1",
+			"chrPrfWeap_redreaper_rightarm_uac5_bh1"
+			],
+			[
+			"chrPrfWeap_redreaper_rightarm_ppc_eh2",
+			"chrPrfWeap_redreaper_rightarm_laser_eh2",
+			"chrPrfWeap_redreaper_rightarm_flamer_eh2"
+            ]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_redreaper_righttorso_flamer_eh1",
+			"chrPrfWeap_redreaper_righttorso_laser_eh1",
+			"chrPrfWeap_redreaper_righttorso_ppc_eh1"
+            ],
+			[
+			"chrPrfWeap_redreaper_righttorso_flamer_eh2",
+			"chrPrfWeap_redreaper_righttorso_laser_eh2",
+			"chrPrfWeap_redreaper_righttorso_ppc_eh2"
+            ],
+			[
+			"chrPrfWeap_redreaper_righttorso_flamer_eh3",
+			"chrPrfWeap_redreaper_righttorso_laser_eh3",
+			"chrPrfWeap_redreaper_righttorso_ppc_eh3"
+            ]				
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

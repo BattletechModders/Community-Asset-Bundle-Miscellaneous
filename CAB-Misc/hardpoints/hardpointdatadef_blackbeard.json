@@ -1,0 +1,116 @@
+{
+    "ID" : "hardpointdatadef_blackbeard",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_blackbeard_leftarm_laser_eh1",
+			"chrPrfWeap_blackbeard_leftarm_flamer_eh1",
+			"chrPrfWeap_blackbeard_leftarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_blackbeard_leftarm_laser_eh2",
+			"chrPrfWeap_blackbeard_leftarm_flamer_eh2",
+			"chrPrfWeap_blackbeard_leftarm_ppc_eh2"	
+			]
+            ],
+            "blanks" : [
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_blackbeard_lefttorso_srm6_mh1",
+			"chrPrfWeap_blackbeard_lefttorso_lrm10_mh1"
+			],
+			[
+			"chrPrfWeap_blackbeard_lefttorso_srm6_mh2",
+			"chrPrfWeap_blackbeard_lefttorso_lrm10_mh2"
+			],
+			[
+			"chrPrfWeap_blackbeard_lefttorso_srm6_mh3",
+			"chrPrfWeap_blackbeard_lefttorso_lrm10_mh3"
+			],
+			[
+			"chrPrfWeap_blackbeard_lefttorso_srm6_mh4",
+			"chrPrfWeap_blackbeard_lefttorso_lrm10_mh4"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_blackbeard_rightarm_laser_eh1",
+			"chrPrfWeap_blackbeard_rightarm_flamer_eh1",
+			"chrPrfWeap_blackbeard_rightarm_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_blackbeard_rightarm_laser_eh2",
+			"chrPrfWeap_blackbeard_rightarm_flamer_eh2",
+			"chrPrfWeap_blackbeard_rightarm_ppc_eh2"	
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_blackbeard_righttorso_ac2_bh1",
+			"chrPrfWeap_blackbeard_righttorso_ac5_bh1",
+			"chrPrfWeap_blackbeard_righttorso_ac10_bh1",
+			"chrPrfWeap_blackbeard_righttorso_ac20_bh1",
+			"chrPrfWeap_blackbeard_righttorso_mg_bh1",
+			"chrPrfWeap_blackbeard_righttorso_gauss_bh1",
+			"chrPrfWeap_blackbeard_righttorso_rac5_bh1",
+			"chrPrfWeap_blackbeard_righttorso_ppc_eh1",
+			"chrPrfWeap_blackbeard_righttorso_artillery_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_blackbeard_centertorso_laser_eh1",
+			"chrPrfWeap_blackbeard_centertorso_flamer_eh1",
+			"chrPrfWeap_blackbeard_centertorso_ppc_eh1"
+			],
+			[
+			"chrPrfWeap_blackbeard_centertorso_laser_eh2",
+			"chrPrfWeap_blackbeard_centertorso_flamer_eh2"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}

@@ -1,0 +1,103 @@
+{
+    "ID" : "hardpointdatadef_xenorauder",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+				"chrprfweap_xenorauder_leftarm_laser_eh1"
+				],
+				[
+				"chrprfweap_xenorauder_leftarm_flamer_eh1"
+				],
+				[
+				"chrprfweap_xenorauder_leftarm_ppc_eh1"				
+				]                
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+				"chrprfweap_xenorauder_lefttorso_srm4_mh1",
+				"chrprfweap_xenorauder_lefttorso_srm6_mh1",
+				"chrprfweap_xenorauder_lefttorso_lrm15_mh1",
+				"chrprfweap_xenorauder_lefttorso_srm20_mh1"					
+				]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+				"chrprfweap_xenorauder_rightarm_laser_eh1"
+				],
+				[
+				"chrprfweap_xenorauder_rightarm_flamer_eh1"
+				],
+				[
+				"chrprfweap_xenorauder_rightarm_ppc_eh1"				
+				] 			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+				"chrprfweap_xenorauder_righttorso_flamer_eh1",
+				"chrprfweap_xenorauder_righttorso_ppc_eh1",
+				"chrprfweap_xenorauder_righttorso_laser_eh1",
+				"chrprfweap_xenorauder_righttorso_mg_bh1",
+				"chrprfweap_xenorauder_righttorso_gauss_bh1",
+				"chrprfweap_xenorauder_righttorso_ac20_bh1"
+				],
+				[
+				"chrprfweap_xenorauder_righttorso_ac20_bh2"
+				],
+				[
+				"chrprfweap_xenorauder_righttorso_ac20_bh3"
+				]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+				"chrprfweap_xenorauder_head_laser_eh1",
+				"chrprfweap_xenorauder_head_flamer_eh1"			
+				]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }		
+    ]
+	
+}

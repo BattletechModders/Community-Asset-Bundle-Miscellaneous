@@ -1,0 +1,117 @@
+{
+    "ID" : "hardpointdatadef_mira",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mira_leftarm_flamer_eh1",
+			"chrPrfWeap_mira_leftarm_ac10_bh1",
+			"chrPrfWeap_mira_leftarm_gauss_bh1",
+			"chrPrfWeap_mira_leftarm_laser_eh1",
+			"chrPrfWeap_mira_leftarm_mg_bh1",
+			"chrPrfWeap_mira_leftarm_srm20_mh1",
+			"chrPrfWeap_mira_leftarm_lrm10_mh1",
+			"chrPrfWeap_mira_leftarm_srm4_mh1",
+			"chrPrfWeap_mira_leftarm_srm6_mh1",
+			"chrPrfWeap_mira_leftarm_ppc_eh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mira_lefttorso_ac10_bh1",
+			"chrPrfWeap_mira_lefttorso_lrm10_mh1",
+			"chrPrfWeap_mira_lefttorso_laser_eh1",
+			"chrPrfWeap_mira_lefttorso_lrm15_mh1",
+			"chrPrfWeap_mira_lefttorso_srm20_mh1",
+			"chrPrfWeap_mira_lefttorso_mg_bh1",
+			"chrPrfWeap_mira_lefttorso_gauss_bh1",
+			"chrPrfWeap_mira_lefttorso_ppc_eh1",
+			"chrPrfWeap_mira_lefttorso_flamer_eh1",
+			"chrPrfWeap_mira_lefttorso_srm4_mh1",
+			"chrPrfWeap_mira_lefttorso_srm6_mh1"		
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_mira_rightarm_laser_eh1",
+			"chrPrfWeap_mira_rightarm_ppc_eh1",
+			"chrPrfWeap_mira_rightarm_mg_bh1",
+			"chrPrfWeap_mira_rightarm_gauss_bh1",
+			"chrPrfWeap_mira_rightarm_flamer_eh1",
+			"chrPrfWeap_mira_rightarm_lrm10_mh1",
+			"chrPrfWeap_mira_rightarm_srm6_mh1",
+			"chrPrfWeap_mira_rightarm_srm4_mh1",
+			"chrPrfWeap_mira_rightarm_ac20_bh1",
+			"chrPrfWeap_mira_rightarm_ac10_bh1",
+			"chrPrfWeap_mira_rightarm_srm20_mh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mira_righttorso_ac10_bh1",
+			"chrPrfWeap_mira_righttorso_laser_eh1",
+			"chrPrfWeap_mira_righttorso_ppc_eh1",
+			"chrPrfWeap_mira_righttorso_flamer_eh1",
+			"chrPrfWeap_mira_righttorso_lrm10_mh1",
+			"chrPrfWeap_mira_righttorso_srm20_mh1",
+			"chrPrfWeap_mira_righttorso_srm6_mh1",
+			"chrPrfWeap_mira_righttorso_mg_bh1",
+			"chrPrfWeap_mira_righttorso_gauss_bh1"			
+			]			
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },	
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_mira_centertorso_laser_eh1",
+			"chrPrfWeap_mira_centertorso_flamer_eh1",
+			"chrPrfWeap_mira_centertorso_mg_bh1",
+			"chrPrfWeap_mira_centertorso_srm4_mh1",
+			"chrPrfWeap_mira_centertorso_ppc_eh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
