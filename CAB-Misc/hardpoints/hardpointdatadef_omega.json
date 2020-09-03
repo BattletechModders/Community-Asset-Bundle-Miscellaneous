@@ -1,0 +1,107 @@
+{
+    "ID" : "hardpointdatadef_omega",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_leftarm_laser_eh1",
+			"chrPrfWeap_omega_leftarm_flamer_eh1",
+			"chrPrfWeap_omega_leftarm_ppc_eh1",
+			"chrPrfWeap_omega_leftarm_mg_bh1",
+			"chrPrfWeap_omega_leftarm_ac20_bh1",
+			"chrPrfWeap_omega_leftarm_gauss_bh1",
+			"chrPrfWeap_omega_leftarm_srm6_mh1",
+			"chrPrfWeap_omega_leftarm_lrm20_mh1"
+			]			
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_lefttorso_laser_eh1",
+			"chrPrfWeap_omega_lefttorso_flamer_eh1",
+			"chrPrfWeap_omega_lefttorso_ppc_eh1",
+			"chrPrfWeap_omega_lefttorso_mg_bh1",
+			"chrPrfWeap_omega_lefttorso_ac20_bh1",
+			"chrPrfWeap_omega_lefttorso_gauss_bh1",
+			"chrPrfWeap_omega_lefttorso_srm6_mh1",
+			"chrPrfWeap_omega_lefttorso_lrm20_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_rightarm_laser_eh1",
+			"chrPrfWeap_omega_rightarm_flamer_eh1",
+			"chrPrfWeap_omega_rightarm_ppc_eh1",
+			"chrPrfWeap_omega_rightarm_mg_bh1",
+			"chrPrfWeap_omega_rightarm_ac20_bh1",
+			"chrPrfWeap_omega_rightarm_gauss_bh1",
+			"chrPrfWeap_omega_rightarm_srm6_mh1",
+			"chrPrfWeap_omega_rightarm_lrm20_mh1"
+			]			
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_righttorso_laser_eh1",
+			"chrPrfWeap_omega_righttorso_flamer_eh1",
+			"chrPrfWeap_omega_righttorso_ppc_eh1",
+			"chrPrfWeap_omega_righttorso_mg_bh1",
+			"chrPrfWeap_omega_righttorso_ac20_bh1",
+			"chrPrfWeap_omega_righttorso_gauss_bh1",
+			"chrPrfWeap_omega_righttorso_srm6_mh1",
+			"chrPrfWeap_omega_righttorso_lrm20_mh1"
+			]			
+			],			
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_head_laser_eh1",
+			"chrPrfWeap_omega_head_flamer_eh1",
+			"chrPrfWeap_omega_head_ppc_eh1",
+			"chrPrfWeap_omega_head_mg_bh1",
+			"chrPrfWeap_omega_head_ac20_bh1",
+			"chrPrfWeap_omega_head_gauss_bh1",
+			"chrPrfWeap_omega_head_srm6_mh1",
+			"chrPrfWeap_omega_head_lrm20_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },		
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_omega_centertorso_laser_eh1",
+			"chrPrfWeap_omega_centertorso_flamer_eh1",
+			"chrPrfWeap_omega_centertorso_ppc_eh1",
+			"chrPrfWeap_omega_centertorso_mg_bh1",
+			"chrPrfWeap_omega_centertorso_ac20_bh1",
+			"chrPrfWeap_omega_centertorso_gauss_bh1",
+			"chrPrfWeap_omega_centertorso_srm6_mh1",
+			"chrPrfWeap_omega_centertorso_lrm20_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}
