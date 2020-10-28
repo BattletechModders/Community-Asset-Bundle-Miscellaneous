@@ -1125,6 +1125,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundamunicorn/chrprfweap_gundamunicorn_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundamunicornbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundamunicorn/chrprfweap_gundamunicorn_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundamunicornbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundamunicorn/chrprfweap_gundamunicorn_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundamunicornbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundamunicorn/chrprfweap_gundamunicorn_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundamunicornbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gatgundam/chrPrfComp_gatgundam_simgame.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_gatgundambase-001.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/gatgundam/chrPrfComp_gatgundam_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" }	
     ]
 }
