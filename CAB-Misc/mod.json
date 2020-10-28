@@ -1150,6 +1150,31 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" }	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gatgundam/chrprfweap_gatgundam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gatgundambase-001" },
+
+			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mechagodzilla/chrPrfComp_mechagodzilla_simgame.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_mechagodzillabase-001.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mechagodzilla/chrPrfComp_mechagodzilla_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_lefttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_rightarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_leftarm_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" }
     ]
 }

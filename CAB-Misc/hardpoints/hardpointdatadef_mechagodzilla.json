@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_mechagodzilla",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_mechagodzilla_leftarm_laser_eh1",
+			"chrprfweap_mechagodzilla_leftarm_lrm10_mh1",
+			"chrprfweap_mechagodzilla_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mechagodzilla_lefttorso_laser_eh1",
+			"chrprfweap_mechagodzilla_lefttorso_lrm10_mh1",
+			"chrprfweap_mechagodzilla_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_mechagodzilla_rightarm_laser_eh1",
+			"chrprfweap_mechagodzilla_rightarm_lrm10_mh1",
+			"chrprfweap_mechagodzilla_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_mechagodzilla_righttorso_laser_eh1",
+			"chrprfweap_mechagodzilla_righttorso_lrm10_mh1",
+			"chrprfweap_mechagodzilla_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_mechagodzilla_centertorso_laser_eh1",
+			"chrprfweap_mechagodzilla_centertorso_lrm10_mh1",
+			"chrprfweap_mechagodzilla_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
