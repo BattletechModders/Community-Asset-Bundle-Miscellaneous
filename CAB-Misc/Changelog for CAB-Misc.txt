@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+1.5
+
+Added the Mechagodzilla, apparently.
+
 1.4
 
 Added the GAT Gundam
