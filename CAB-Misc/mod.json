@@ -1175,6 +1175,9 @@
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mechagodzilla/chrprfweap_mechagodzilla_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_mechagodzillabase-001" },
+	
+	        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_urbicopter.prefab", "AssetBundleName": "chrprfvhcl_urbicopter" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/urbicopter/chrprfweap_urbicopter_turret_generic_eh1.prefab", "AssetBundleName": "chrprfvhcl_urbicopter" }
     ]
 }
