@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+1.6
+
+Added Shade's External Weapon Collection Vol. 1
+
 1.5
 
 Added the Mechagodzilla, apparently.
