@@ -2,6 +2,11 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+1.7
+
+Added the AT-ST Mech 
+Added the SuperLAM
+
 1.6
 
 Added Shade's External Weapon Collection Vol. 1

@@ -27,6 +27,8 @@ Creative Commons - Non-Commercial
 
 Models:
 GAT Gundam
+SuperLAM
+AT-ST
 
 Lt. Shade
 License:

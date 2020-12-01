@@ -1,0 +1,86 @@
+{
+    "ID" : "hardpointdatadef_superlam",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_superlam_leftarm_laser_eh1",
+			"chrprfweap_superlam_leftarm_lrm10_mh1",
+			"chrprfweap_superlam_leftarm_ac10_bh1"
+			]
+            ],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_superlam_lefttorso_laser_eh1",
+			"chrprfweap_superlam_lefttorso_lrm10_mh1",
+			"chrprfweap_superlam_lefttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_superlam_rightarm_laser_eh1",
+			"chrprfweap_superlam_rightarm_lrm10_mh1",
+			"chrprfweap_superlam_rightarm_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_superlam_righttorso_laser_eh1",
+			"chrprfweap_superlam_righttorso_lrm10_mh1",
+			"chrprfweap_superlam_righttorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_superlam_centertorso_laser_eh1",
+			"chrprfweap_superlam_centertorso_lrm10_mh1",
+			"chrprfweap_superlam_centertorso_ac10_bh1"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
