@@ -1,0 +1,148 @@
+{
+    "ID" : "hardpointdatadef_lightninglam",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrprfweap_lightninglam_leftarm_laser_eh1",
+			"chrprfweap_lightninglam_leftarm_ppc_eh1",
+			"chrprfweap_lightninglam_leftarm_mg_bh1",
+			"chrprfweap_lightninglam_leftarm_ac2_bh1"		
+			],
+			[
+			"chrprfweap_lightninglam_leftarm_lrm5_mh1"		
+            ],
+			[
+			"chrprfweap_lightninglam_leftarm_laser_eh2",
+			"chrprfweap_lightninglam_leftarm_ppc_eh2",
+			"chrprfweap_lightninglam_leftarm_mg_bh2",
+			"chrprfweap_lightninglam_leftarm_ac2_bh2"
+			]
+			],
+            "blanks" : [
+
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrprfweap_lightninglam_lefttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_ppc_eh1"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_lrm5_mh1"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_lrm5_mh2"
+            ],
+			[
+			"chrprfweap_lightninglam_lefttorso_ac2_bh1",
+			"chrprfweap_lightninglam_lefttorso_mg_bh1"
+			],
+			[
+			"chrprfweap_lightninglam_lefttorso_ac2_bh2",
+			"chrprfweap_lightninglam_lefttorso_mg_bh2"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrprfweap_lightninglam_rightarm_laser_eh1",
+			"chrprfweap_lightninglam_rightarm_mg_bh1",
+			"chrprfweap_lightninglam_rightarm_ac2_bh1"		
+			],
+			[
+			"chrprfweap_lightninglam_rightarm_lrm5_mh1"		
+            ],
+			[
+			"chrprfweap_lightninglam_rightarm_laser_eh2",
+			"chrprfweap_lightninglam_rightarm_ppc_eh2",
+			"chrprfweap_lightninglam_rightarm_mg_bh2",
+			"chrprfweap_lightninglam_rightarm_ac2_bh2"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_lightninglam_righttorso_laser_eh1"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_ppc_eh1"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_laser_eh2"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_ppc_eh2"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_lrm5_mh1"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_lrm5_mh2"
+            ],
+			[
+			"chrprfweap_lightninglam_righttorso_ac2_bh1",
+			"chrprfweap_lightninglam_righttorso_mg_bh1"
+			],
+			[
+			"chrprfweap_lightninglam_righttorso_ac2_bh2",
+			"chrprfweap_lightninglam_righttorso_mg_bh2"
+			]
+			],
+            "blanks" : [
+			
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrprfweap_lightninglam_centertorso_laser_eh1"
+			],
+			[
+			"chrprfweap_lightninglam_centertorso_laser_eh2"
+			]
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+	
+}
