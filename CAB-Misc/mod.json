@@ -1276,6 +1276,34 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },		
 
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
+	
+	 { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_bumbcarbase-001.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bumbcar/chrPrfComp_bumbcar_simgame.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bumbcar/chrprfweap_bumbcar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bumbcarbase-001" }
+		
     ]
 }
