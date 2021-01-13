@@ -13,6 +13,10 @@
         { "Type": "HardpointDataDef", "Path": "hardpoints" },
         { "Type": "AssetBundle", "Path": "assetbundles" },
 
+{ "Type": "Prefab", "Path": "assets/characters/prefabs/vf11lam_vjets_left_leg.prefab", "AssetBundleName": "vf11lam_jets" },
+	{ "Type": "Prefab", "Path": "assets/characters/prefabs/vf11lam_vjets_right_leg.prefab", "AssetBundleName": "vf11lam_jets" },
+	{ "Type": "Prefab", "Path": "assets/characters/prefabs/vf11lam_vjets_torso.prefab", "AssetBundleName": "vf11lam_jets" },
+
         { "Type": "Prefab", "Path": "assets/character/turrets/prefabs/chrprftrt_unionturret.prefab", "AssetBundleName": "chrprftrt_unionturret" },
         { "Type": "Prefab", "Path": "assets/character/turrets/prefabs/weapons/unionturret/chrPrfWeap_unionturret_turret_generic_eh1.prefab", "AssetBundleName": "chrprftrt_unionturret" },
 
