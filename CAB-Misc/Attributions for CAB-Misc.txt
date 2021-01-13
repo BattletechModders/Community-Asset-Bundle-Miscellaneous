@@ -29,6 +29,7 @@ Models:
 GAT Gundam
 SuperLAM
 AT-ST
+V11Lam
 
 Lt. Shade
 License:
