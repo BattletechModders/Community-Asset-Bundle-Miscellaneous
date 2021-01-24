@@ -1,0 +1,81 @@
+{
+    "ID" : "hardpointdatadef_maulalt",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_leftarm_laser_eh1",
+				"chrprfweap_maulalt_leftarm_mg_bh1",
+				"chrprfweap_maulalt_leftarm_srm6_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_lefttorso_laser_eh1",
+				"chrprfweap_maulalt_lefttorso_mg_bh1",
+				"chrprfweap_maulalt_lefttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_rightarm_laser_eh1",
+				"chrprfweap_maulalt_rightarm_mg_bh1",
+				"chrprfweap_maulalt_rightarm_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_righttorso_laser_eh1",
+				"chrprfweap_maulalt_righttorso_mg_bh1",
+				"chrprfweap_maulalt_righttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_centertorso_laser_eh1",
+				"chrprfweap_maulalt_centertorso_mg_bh1",
+				"chrprfweap_maulalt_centertorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+				"chrprfweap_maulalt_head_laser_eh1",
+				"chrprfweap_maulalt_head_mg_bh1",
+				"chrprfweap_maulalt_head_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}
