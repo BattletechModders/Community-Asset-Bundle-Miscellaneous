@@ -1,0 +1,81 @@
+{
+    "ID" : "hardpointdatadef_miragecar",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_leftarm_laser_eh1",
+				"chrprfweap_miragecar_leftarm_mg_bh1",
+				"chrprfweap_miragecar_leftarm_srm6_mh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_lefttorso_laser_eh1",
+				"chrprfweap_miragecar_lefttorso_mg_bh1",
+				"chrprfweap_miragecar_lefttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_rightarm_laser_eh1",
+				"chrprfweap_miragecar_rightarm_mg_bh1",
+				"chrprfweap_miragecar_rightarm_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_righttorso_laser_eh1",
+				"chrprfweap_miragecar_righttorso_mg_bh1",
+				"chrprfweap_miragecar_righttorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_centertorso_laser_eh1",
+				"chrprfweap_miragecar_centertorso_mg_bh1",
+				"chrprfweap_miragecar_centertorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+				"chrprfweap_miragecar_head_laser_eh1",
+				"chrprfweap_miragecar_head_mg_bh1",
+				"chrprfweap_miragecar_head_srm6_mh1"
+			]			
+			],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

@@ -1583,7 +1583,115 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grimalt/chrPrfWeap_grimalt_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_grimaltbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grimalt/chrPrfWeap_grimalt_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_grimaltbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grimalt/chrPrfWeap_grimalt_centertorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_grimaltbase-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grimalt/chrPrfWeap_grimalt_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_grimaltbase-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/grimalt/chrPrfWeap_grimalt_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_grimaltbase-001" },
+		
+		 { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_soundcarbase-001.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/soundcar/chrPrfComp_soundcar_simgame.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/soundcar/chrprfweap_soundcar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_soundcarbase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_cliffcarbase-001.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cliffcar/chrPrfComp_cliffcar_simgame.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cliffcar/chrprfweap_cliffcar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cliffcarbase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_miragecarbase-001.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/miragecar/chrPrfComp_miragecar_simgame.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/miragecar/chrprfweap_miragecar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_miragecarbase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_opticarbase-001.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/opticar/chrPrfComp_opticar_simgame.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" }
 		
     ]
 }
