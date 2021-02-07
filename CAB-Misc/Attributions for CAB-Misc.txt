@@ -38,6 +38,13 @@ Creative Commons - Non-Commercial
 Models:
 External Weapon Collection Vol. 1
 
+FrostRaptor:
+License: 
+CC BY-NC-SA 4.0
+
+Models:
+RA Kirov
+
 Kiryu
 License:
 Unlicensed

@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+1.8
+
+Added the... Red Alert Kirov Zeppelin
+
 1.7
 
 Added the AT-ST Mech 

@@ -1691,7 +1691,10 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rakirov_body.prefab", "AssetBundleName": "rakirov_body" },
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/rakirov/chrprfweap_rakirov_turret_generic_eh1.prefab", "AssetBundleName": "rakirov_body" }
 		
     ]
 }
