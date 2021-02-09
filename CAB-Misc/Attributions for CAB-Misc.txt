@@ -30,6 +30,7 @@ GAT Gundam
 SuperLAM
 AT-ST
 V11Lam
+Ajax
 
 Lt. Shade
 License:

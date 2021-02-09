@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+1.9
+
+Added the Transformer Ajax
+
 1.8
 
 Added the... Red Alert Kirov Zeppelin

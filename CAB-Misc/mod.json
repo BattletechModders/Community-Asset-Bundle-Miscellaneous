@@ -1694,7 +1694,16 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/opticar/chrprfweap_opticar_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_opticarbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/rakirov_body.prefab", "AssetBundleName": "rakirov_body" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/rakirov/chrprfweap_rakirov_turret_generic_eh1.prefab", "AssetBundleName": "rakirov_body" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/rakirov/chrprfweap_rakirov_turret_generic_eh1.prefab", "AssetBundleName": "rakirov_body" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ajax/chrPrfComp_ajax_simgame.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ajaxbase-001.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ajax/chrPrfComp_ajax_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" }
 		
     ]
 }
