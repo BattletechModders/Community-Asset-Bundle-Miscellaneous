@@ -45,6 +45,7 @@ CC BY-NC-SA 4.0
 
 Models:
 RA Kirov
+Dixon Airship
 
 Kiryu
 License:
