@@ -1702,8 +1702,9 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ajax/chrPrfComp_ajax_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
-
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajax/chrprfweap_ajax_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxbase-001" }
 		
     ]
 }
