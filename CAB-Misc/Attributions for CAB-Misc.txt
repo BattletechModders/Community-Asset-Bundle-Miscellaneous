@@ -7,12 +7,14 @@ License:
 Unstated but seems to effectively be Creative Commons - Non-Commercial
 
 Models:
-Blackbeard
+
+Crackfoxx:
 Xenorauder
 RedReaper
 Shanky
-Groovy
-Timber Wolf LAM
+Groocy
+Blackbeard
+Yen-Lo-Wang
 
 kurojishi
 License:
@@ -31,6 +33,7 @@ SuperLAM
 AT-ST
 V11Lam
 Ajax
+Timber Wolf LAM
 
 Lt. Shade
 License:
