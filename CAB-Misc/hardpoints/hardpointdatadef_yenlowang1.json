@@ -2,12 +2,6 @@
     "ID" : "hardpointdatadef_yenlowang1",
     "HardpointData" : [
         {
-            "location" : "leftarm",
-            "weapons" : [],
-            "blanks" : [],
-            "mountingPoints" : []
-        },
-        {
             "location" : "lefttorso",
             "weapons" : [
 					[
@@ -46,13 +40,7 @@
             "blanks" : [],
             "mountingPoints" : []
         },
-        {
-            "location" : "righttorso",
-            "weapons" : [],
-            "blanks" : [],
-            "mountingPoints" : []
-        },
-		{
+	{
             "location" : "centertorso",
             "weapons" : [
 					[
@@ -64,12 +52,6 @@
                     "chrprfweap_yenlowang1_centertorso_flamer_eh2"
 					]
 			],
-            "blanks" : [],
-            "mountingPoints" : []
-        },
-		{
-            "location" : "head",
-            "weapons" : [],
             "blanks" : [],
             "mountingPoints" : []
         }
