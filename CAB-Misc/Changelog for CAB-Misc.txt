@@ -2,6 +2,14 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+2.2
+
+Added Ajax Fighter and BikenRider
+
+2.1
+
+Added Yen-Lo-Wang
+
 2.0
 
 Added the Dixon Airship

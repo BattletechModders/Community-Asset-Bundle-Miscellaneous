@@ -15,6 +15,7 @@ Shanky
 Groocy
 Blackbeard
 Yen-Lo-Wang
+Biken Rider
 
 kurojishi
 License:
@@ -33,6 +34,7 @@ SuperLAM
 AT-ST
 V11Lam
 Ajax
+Ajax Fighter
 Timber Wolf LAM
 
 Lt. Shade
