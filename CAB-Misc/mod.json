@@ -1733,7 +1733,44 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yenlowang1/chrprfweap_yenlowang1_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_yenlowang1base-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yenlowang1/chrprfweap_yenlowang1_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_yenlowang1base-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yenlowang1/chrprfweap_yenlowang1_centertorso_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_yenlowang1base-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yenlowang1/chrprfweap_yenlowang1_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_yenlowang1base-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/yenlowang1/chrprfweap_yenlowang1_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_yenlowang1base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ajaxfighter/chrPrfComp_ajaxfighter_simgame.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ajaxfighterbase-001.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ajaxfighter/chrPrfComp_ajaxfighter_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajaxfighter/chrprfweap_ajaxfighter_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajaxfighter/chrprfweap_ajaxfighter_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajaxfighter/chrprfweap_ajaxfighter_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ajaxfighter/chrprfweap_ajaxfighter_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ajaxfighterbase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_bikenriderbase-001.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/bikenrider/chrPrfComp_bikenrider_simgame.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" }
 		
     ]
 }
