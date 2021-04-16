@@ -1770,7 +1770,56 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/bikenrider/chrprfweap_bikenrider_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_bikenriderbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_cyclobase-001.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cyclo/chrPrfComp_cyclo_simgame.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/cyclo/chrPrfComp_cyclo_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_leftarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_lefttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_rightarm_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_ac20_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_centertorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+		
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_head_mg_bh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" }
 		
     ]
 }

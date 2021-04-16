@@ -1,0 +1,97 @@
+{
+    "ID" : "hardpointdatadef_cyclo",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_leftarm_laser_eh1",
+			"chrPrfWeap_cyclo_leftarm_ppc_eh1",
+			"chrPrfWeap_cyclo_leftarm_flamer_eh1",
+			"chrPrfWeap_cyclo_leftarm_mg_bh1",
+			"chrPrfWeap_cyclo_leftarm_ac20_bh1",
+			"chrPrfWeap_cyclo_leftarm_gauss_bh1",
+			"chrPrfWeap_cyclo_leftarm_srm6_mh1",
+			"chrPrfWeap_cyclo_leftarm_lrm15_mh1"
+			]
+            ],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_lefttorso_laser_eh1",
+			"chrPrfWeap_cyclo_lefttorso_ppc_eh1",
+			"chrPrfWeap_cyclo_lefttorso_flamer_eh1",
+			"chrPrfWeap_cyclo_lefttorso_mg_bh1",
+			"chrPrfWeap_cyclo_lefttorso_ac20_bh1",
+			"chrPrfWeap_cyclo_lefttorso_gauss_bh1",
+			"chrPrfWeap_cyclo_lefttorso_srm6_mh1",
+			"chrPrfWeap_cyclo_lefttorso_lrm15_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_rightarm_laser_eh1",
+			"chrPrfWeap_cyclo_rightarm_ppc_eh1",
+			"chrPrfWeap_cyclo_rightarm_flamer_eh1",
+			"chrPrfWeap_cyclo_rightarm_mg_bh1",
+			"chrPrfWeap_cyclo_rightarm_ac20_bh1",
+			"chrPrfWeap_cyclo_rightarm_gauss_bh1",
+			"chrPrfWeap_cyclo_rightarm_srm6_mh1",
+			"chrPrfWeap_cyclo_rightarm_lrm15_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_righttorso_laser_eh1",
+			"chrPrfWeap_cyclo_righttorso_ppc_eh1",
+			"chrPrfWeap_cyclo_righttorso_flamer_eh1",
+			"chrPrfWeap_cyclo_righttorso_mg_bh1",
+			"chrPrfWeap_cyclo_righttorso_ac20_bh1",
+			"chrPrfWeap_cyclo_righttorso_gauss_bh1",
+			"chrPrfWeap_cyclo_righttorso_srm6_mh1",
+			"chrPrfWeap_cyclo_righttorso_lrm15_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },	
+		{
+            "location" : "centertorso",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_centertorso_laser_eh1",
+			"chrPrfWeap_cyclo_centertorso_mg_bh1",
+			"chrPrfWeap_cyclo_centertorso_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },	
+		{
+            "location" : "head",
+            "weapons" : [
+			[
+			"chrPrfWeap_cyclo_head_laser_eh1",
+			"chrPrfWeap_cyclo_head_mg_bh1",
+			"chrPrfWeap_cyclo_head_srm6_mh1"
+			]			
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        }
+    ]
+}
