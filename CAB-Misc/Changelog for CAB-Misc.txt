@@ -2,6 +2,14 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+2.4
+
+Added Mayor McMortimer
+
+2.3
+
+Added the Cyclo
+
 2.2
 
 Added Ajax Fighter and BikenRider

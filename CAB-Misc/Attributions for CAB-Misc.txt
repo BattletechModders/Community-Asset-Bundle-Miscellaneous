@@ -53,6 +53,13 @@ RA Kirov
 Dixon Airship
 Periphery Kirov
 
+SirMortimer
+License:
+Unlicensed
+
+Models:
+Mayor McMortimer
+
 Kiryu
 License:
 Unlicensed
