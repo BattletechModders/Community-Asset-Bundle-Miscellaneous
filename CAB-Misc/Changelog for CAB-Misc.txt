@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+2.5
+
+Added the Marauder Battle Armor
+
 2.4
 
 Added Mayor McMortimer

@@ -1822,14 +1822,24 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/cyclo/chrPrfWeap_cyclo_head_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_cyclobase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mayormcmortimer/chrPrfComp_mayormcmortimer_simgame.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
-    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_mayormcmortimerbase-001.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },	
-	
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mayormcmortimer/chrPrfComp_mayormcmortimer_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
-	
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_mayormcmortimerbase-001.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/mayormcmortimer/chrPrfComp_mayormcmortimer_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/mayormcmortimer/chrprfweap_mayormcmortimer_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_mayormcmortimerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/marauderba/chrPrfComp_marauderba_simgame.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_marauderbabase-001.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/marauderba/chrPrfComp_marauderba_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" }
 		
     ]
 }
