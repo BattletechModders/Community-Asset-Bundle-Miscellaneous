@@ -66,6 +66,7 @@ Creative Commons - Non-Commercial - No Derivatives
 
 Models:
 Marauder Battle Armor
+Ravager Battle Armor
 
 Kiryu
 License:
