@@ -1839,7 +1839,17 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/marauderba/chrprfweap_marauderba_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_marauderbabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ravager/chrPrfComp_ravager_simgame.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ravagerbase-001.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ravager/chrPrfComp_ravager_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" }
 		
     ]
 }
