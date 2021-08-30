@@ -7,11 +7,14 @@
     "Author": "Community",
 
     "IgnoreLoadFailure": true,
+		"OptionallyDependsOn": [ "CustomUnits" ],
+		"CustomResourceTypes": ["CustomMechRepresentationDef","CustomPrefabDef"],	
 
     "Manifest": [
         { "Type": "Texture2D",  "Path": "textures", "AddToAddendum": "ConversationTexture" },
         { "Type": "HardpointDataDef", "Path": "hardpoints" },
         { "Type": "AssetBundle", "Path": "assetbundles" },
+				{ "Type": "CustomPrefabDef", "Path": "prefabs" },
 
 { "Type": "Prefab", "Path": "assets/characters/prefabs/vf11lam_vjets_left_leg.prefab", "AssetBundleName": "vf11lam_jets" },
 	{ "Type": "Prefab", "Path": "assets/characters/prefabs/vf11lam_vjets_right_leg.prefab", "AssetBundleName": "vf11lam_jets" },
