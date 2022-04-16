@@ -1855,7 +1855,20 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_tw.prefab", "AssetBundleName": "chrprfvhcl_aero_tw" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_tw/chrprfweap_aero_tw_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_tw" }
+        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_tw/chrprfweap_aero_tw_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_tw" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/astroshuttle/chrPrfComp_astroshuttle_simgame.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_astroshuttlebase-001.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/astroshuttle/chrPrfComp_astroshuttle_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/astroshuttle/chrprfweap_astroshuttle_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/astroshuttle/chrprfweap_astroshuttle_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/astroshuttle/chrprfweap_astroshuttle_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/astroshuttle/chrprfweap_astroshuttle_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" }
 		
     ]
 }

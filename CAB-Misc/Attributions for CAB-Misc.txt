@@ -37,6 +37,7 @@ Ajax
 Ajax Fighter
 Timber Wolf LAM
 Timber Wolf LAM Aerospace Fighter???
+Astroshuttle
 
 Lt. Shade
 License:

@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+2.8
+
+Added the Astroshuttle...?
+
 2.7
 
 Added the Timber Wolf LAM Aerospace Fighter (has that ever been said before? I suspect not)
