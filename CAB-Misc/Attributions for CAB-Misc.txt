@@ -1,11 +1,8 @@
 Attributions for CAB-Misc
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 Piranha Games, Inc.
-License: 
-Unstated but seems to effectively be Creative Commons - Non-Commercial
-
 Models:
 
 Crackfoxx:
@@ -18,16 +15,10 @@ Yen-Lo-Wang
 Biken Rider
 
 kurojishi
-License:
-Unlicensed
-
 Models:
 Gundam Unicorn
 
 Transient74
-License:
-Creative Commons - Non-Commercial
-
 Models:
 GAT Gundam
 SuperLAM
@@ -40,40 +31,25 @@ Timber Wolf LAM Aerospace Fighter???
 Astroshuttle
 
 Lt. Shade
-License:
-Creative Commons - Non-Commercial
-
 Models:
 External Weapon Collection Vol. 1
 
 FrostRaptor:
-License: 
-CC BY-NC-SA 4.0
-
 Models:
 RA Kirov
 Dixon Airship
 Periphery Kirov
 
 SirMortimer
-License:
-Unlicensed
-
 Models:
 Mayor McMortimer
 
 PGI Nico
-License:
-Creative Commons - Non-Commercial - No Derivatives
-
 Models:
 Marauder Battle Armor
 Ravager Battle Armor
 
 Kiryu
-License:
-Unlicensed
-
 Models:
 Mechagodzilla
 
