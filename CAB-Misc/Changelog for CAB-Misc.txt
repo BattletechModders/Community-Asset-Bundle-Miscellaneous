@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+2.9
+
+Added the "Marauder" BA squad (custom request)
+
 2.8
 
 Added the Astroshuttle...?

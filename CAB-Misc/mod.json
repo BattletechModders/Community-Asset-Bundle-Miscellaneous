@@ -1910,7 +1910,21 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/transientlam/chrprfweap_transientlam_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_transientlambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/transientlam/chrprfweap_transientlam_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_transientlambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/transientlam/chrprfweap_transientlam_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_transientlambase-001" },	
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/transientlam/chrprfweap_transientlam_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_transientlambase-001" }
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/transientlam/chrprfweap_transientlam_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_transientlambase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/madba/chrPrfComp_madba_simgame.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },
+    { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_madbabase-001.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/madba/chrPrfComp_madba_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },	
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/madba/chrPrfComp_madba_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },
+	
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madba/chrprfweap_madba_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madba/chrprfweap_madba_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madba/chrprfweap_madba_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madbabase-001" },
+
+	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/madba/chrprfweap_madba_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_madbabase-001" }
 		
     ]
 }
