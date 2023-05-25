@@ -1238,7 +1238,6 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/superlam/chrprfweap_superlam_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_superlambase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/superlam/chrprfweap_superlam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_superlambase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/superlam/chrprfweap_superlam_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_superlambase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/superlam/chrprfweap_superlam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_superlambase-001" },	
 	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/atstmech/chrPrfComp_atstmech_simgame.prefab", "AssetBundleName": "chrprfmech_atstmechbase-001" },
@@ -1279,7 +1278,6 @@
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
-	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
 		
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/lightninglam/chrprfweap_lightninglam_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_lightninglambase-001" },
@@ -1855,7 +1853,6 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ravager/chrprfweap_ravager_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ravagerbase-001" },
 		
 		{ "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/chrprfvhcl_aero_tw.prefab", "AssetBundleName": "chrprfvhcl_aero_tw" },
-        { "Type": "Prefab", "Path": "assets/character/vehicle/prefabs/weapons/aero_tw/chrprfweap_aero_tw_turret_generic_mh1.prefab", "AssetBundleName": "chrprfvhcl_aero_tw" },	
 	
 	{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/astroshuttle/chrPrfComp_astroshuttle_simgame.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },
     { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_astroshuttlebase-001.prefab", "AssetBundleName": "chrprfmech_astroshuttlebase-001" },	
