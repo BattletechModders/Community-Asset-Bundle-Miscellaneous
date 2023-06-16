@@ -1050,11 +1050,7 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/gundam/chrprfweap_gundam_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_gundambase-001" },
-		
-		{ "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_bottom_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
-        { "Type": "Prefab", "Path": "assets/rotor/warrior_rotor_top_x10_brass.prefab", "AssetBundleName": "warrior_parts" },
-        { "Type": "Prefab", "Path": "assets/rotor/warrior_turret_x10_red.prefab", "AssetBundleName": "warrior_parts" },
-		
+				
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/omega/chrPrfComp_omega_simgame.prefab", "AssetBundleName": "chrprfmech_omegabase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_omegabase-001.prefab", "AssetBundleName": "chrprfmech_omegabase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/omega/chrPrfComp_omega_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_omegabase-001" },

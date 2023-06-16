@@ -2,6 +2,10 @@ Changelog for CAB-Misc
 
 -----------------------------------------------------
 
+3.0
+
+Removed warrior_parts and warrior_parts_unpacked
+
 2.9
 
 Added the "Marauder" BA squad (custom request)
